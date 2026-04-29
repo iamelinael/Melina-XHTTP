@@ -1,8 +1,8 @@
 {
-  "name": "my-xhttp",
+  "name": "melina-xhttp",
   "version": "1.1.0",
   "type": "module",
-  "description": "XHTTP relay for Xray/V2Ray (Node.js runtime, 128MB memory)",
+  "description": "XHTTP relay for Melina",
   "private": true,
   "license": "MIT"
 }
